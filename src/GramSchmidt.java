@@ -14,6 +14,8 @@ public class GramSchmidt {
     public static void main(String[] args)
     {
         Reader inputReader = new Reader();
+
+
         Vector theVector = inputReader.getVector();
         System.out.print(theVector.toString());
     }

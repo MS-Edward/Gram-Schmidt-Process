@@ -24,7 +24,6 @@ public class Reader {
         {
             theVector.addElement(sc.next());
         }
-
         return theVector;
     }
 }
